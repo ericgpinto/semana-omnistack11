@@ -1,0 +1,15 @@
+React le primeiro o arquivo o aquivo index.html, depois o index.js
+
+Componentes:
+- função que retorna HTML;
+
+JSX : html integrado dentro do javascript
+
+icones
+npm install react-icons
+
+rotas
+npm install react-router-dom
+
+axios - conexao com backend
+npm install axios
